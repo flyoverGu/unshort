@@ -1,0 +1,11 @@
+{
+    "name": "unshort",
+    "script": "app.js",
+    "log_date_format": "YYYY-MM-DD HH:mm Z",
+    "merge_logs": true,
+    "env": {
+        "DEBUG": "app",
+        "PORT": 8080 
+    }
+}
+
