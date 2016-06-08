@@ -5,7 +5,7 @@
     "merge_logs": true,
     "env": {
         "DEBUG": "app",
-        "PORT": 8080 
+        "PORT": 9000
     }
 }
 
