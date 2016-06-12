@@ -28,6 +28,6 @@ var start = function() {
 setTimeout(function() {
     console.log('[error] time out');
     phantom.exit();
-}, 1000 * 10);
+}, 1000 * 30);
 
 start();
